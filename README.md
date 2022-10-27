@@ -1,27 +1,20 @@
-# SurveyLibraryAngular
+# About SurveyJS
+Open-source JS Form Builder Libraries that are self-hosted and have integration for React, Angular, Vue.js, and jQuery. SurveyJS is MIT-licensed at the base.
+
+For more information, visit our website: https://surveyjs.io/.
+
+# Angular SurveyJS Library Example
+This example demonstrates how to integrate [SurveyJS Form Library](https://surveyjs.io/form-library) to an Angular application. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
+Run the following commands to clone the repository and install packages:
+
+```
+git clone https://github.com/JaneGaid/survey-library-angular.git
+cd survey-library-angular
+npm i
+```
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
